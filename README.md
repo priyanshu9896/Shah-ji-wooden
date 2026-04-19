@@ -13,6 +13,10 @@
   [![Deployed on Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel)](https://vercel.com/)
 </div>
 
+> **👋 Welcome to my portfolio!** 
+> 
+> This repository is a showcase of a **freelance project** I designed and developed from scratch for a premium interior design client. I am sharing this on my GitHub to demonstrate my expertise in building high-performance, production-ready, and aesthetically beautiful Next.js web applications for real-world businesses. 
+
 <br />
 
 ## 🌟 Overview
